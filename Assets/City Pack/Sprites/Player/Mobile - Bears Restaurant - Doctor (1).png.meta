@@ -1,0 +1,771 @@
+fileFormatVersion: 2
+guid: fae4e85319072a64785d8a1a5d0ef423
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2920338766735445354
+    second: Mobile - Bears Restaurant - Doctor (1)_0
+  - first:
+      213: -1986518049119609846
+    second: Mobile - Bears Restaurant - Doctor (1)_1
+  - first:
+      213: -831445041607043970
+    second: Mobile - Bears Restaurant - Doctor (1)_2
+  - first:
+      213: -3402646040911150192
+    second: Mobile - Bears Restaurant - Doctor (1)_3
+  - first:
+      213: 6669962749487871257
+    second: Mobile - Bears Restaurant - Doctor (1)_4
+  - first:
+      213: -6570725051885503411
+    second: Mobile - Bears Restaurant - Doctor (1)_5
+  - first:
+      213: 7126369513966729084
+    second: Mobile - Bears Restaurant - Doctor (1)_6
+  - first:
+      213: -875838002802982407
+    second: Mobile - Bears Restaurant - Doctor (1)_7
+  - first:
+      213: 7068716440907935892
+    second: Mobile - Bears Restaurant - Doctor (1)_8
+  - first:
+      213: 8034477815405669554
+    second: Mobile - Bears Restaurant - Doctor (1)_9
+  - first:
+      213: -4896346671740024636
+    second: Mobile - Bears Restaurant - Doctor (1)_10
+  - first:
+      213: -4285045230168803866
+    second: Mobile - Bears Restaurant - Doctor (1)_11
+  - first:
+      213: -1418954537055714680
+    second: Mobile - Bears Restaurant - Doctor (1)_12
+  - first:
+      213: -1092912715515324971
+    second: Mobile - Bears Restaurant - Doctor (1)_13
+  - first:
+      213: 4058620321317272532
+    second: Mobile - Bears Restaurant - Doctor (1)_14
+  - first:
+      213: -5694311830182931419
+    second: Mobile - Bears Restaurant - Doctor (1)_15
+  - first:
+      213: -4532868561774816709
+    second: Mobile - Bears Restaurant - Doctor (1)_16
+  - first:
+      213: 778350081006743657
+    second: Mobile - Bears Restaurant - Doctor (1)_17
+  - first:
+      213: 3836243137413037956
+    second: Mobile - Bears Restaurant - Doctor (1)_18
+  - first:
+      213: 7399478431598958199
+    second: Mobile - Bears Restaurant - Doctor (1)_19
+  - first:
+      213: 3979425513458258039
+    second: Mobile - Bears Restaurant - Doctor (1)_20
+  - first:
+      213: -7969799902490378391
+    second: Mobile - Bears Restaurant - Doctor (1)_21
+  - first:
+      213: -7961658693693777431
+    second: Mobile - Bears Restaurant - Doctor (1)_22
+  - first:
+      213: 6025737048237217432
+    second: Mobile - Bears Restaurant - Doctor (1)_23
+  - first:
+      213: 6269384507017593039
+    second: Mobile - Bears Restaurant - Doctor (1)_24
+  - first:
+      213: -3219517035867575719
+    second: Mobile - Bears Restaurant - Doctor (1)_25
+  - first:
+      213: -137489820160301703
+    second: Mobile - Bears Restaurant - Doctor (1)_26
+  - first:
+      213: -3705783131929742319
+    second: Mobile - Bears Restaurant - Doctor (1)_27
+  - first:
+      213: 114399399759208783
+    second: Mobile - Bears Restaurant - Doctor (1)_28
+  - first:
+      213: 6074089392825848824
+    second: Mobile - Bears Restaurant - Doctor (1)_29
+  - first:
+      213: -3116279606853348778
+    second: Mobile - Bears Restaurant - Doctor (1)_30
+  - first:
+      213: -3926176664500014842
+    second: Mobile - Bears Restaurant - Doctor (1)_31
+  - first:
+      213: 4494188803936073710
+    second: Mobile - Bears Restaurant - Doctor (1)_32
+  - first:
+      213: 1983768501047602515
+    second: Mobile - Bears Restaurant - Doctor (1)_33
+  - first:
+      213: 5245365641480777879
+    second: Mobile - Bears Restaurant - Doctor (1)_34
+  - first:
+      213: 2472114069770476462
+    second: Mobile - Bears Restaurant - Doctor (1)_35
+  - first:
+      213: 401742593028944642
+    second: Mobile - Bears Restaurant - Doctor (1)_36
+  - first:
+      213: -8533797412515828587
+    second: Mobile - Bears Restaurant - Doctor (1)_37
+  - first:
+      213: 2415725684242092501
+    second: Mobile - Bears Restaurant - Doctor (1)_38
+  - first:
+      213: -9064057455129340359
+    second: Mobile - Bears Restaurant - Doctor (1)_39
+  - first:
+      213: -2201719992573340828
+    second: Mobile - Bears Restaurant - Doctor (1)_40
+  - first:
+      213: 2242782188824158229
+    second: Mobile - Bears Restaurant - Doctor (1)_41
+  - first:
+      213: 7945819960595538800
+    second: Mobile - Bears Restaurant - Doctor (1)_42
+  - first:
+      213: -2394076544905873005
+    second: Mobile - Bears Restaurant - Doctor (1)_43
+  - first:
+      213: -7223376654280106203
+    second: Mobile - Bears Restaurant - Doctor (1)_44
+  - first:
+      213: -8526805230533068047
+    second: Mobile - Bears Restaurant - Doctor (1)_45
+  - first:
+      213: -8474982644356682739
+    second: Mobile - Bears Restaurant - Doctor (1)_46
+  - first:
+      213: -7053767988951622706
+    second: Mobile - Bears Restaurant - Doctor (1)_47
+  - first:
+      213: 679875982459160036
+    second: Mobile - Bears Restaurant - Doctor (1)_48
+  - first:
+      213: -259992557794208474
+    second: Mobile - Bears Restaurant - Doctor (1)_49
+  - first:
+      213: 3577821939942413045
+    second: Mobile - Bears Restaurant - Doctor (1)_50
+  - first:
+      213: -1763613890437564263
+    second: Mobile - Bears Restaurant - Doctor (1)_51
+  - first:
+      213: 2766562532107781572
+    second: Mobile - Bears Restaurant - Doctor (1)_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6927ee04d5fd877d0800000000000000
+      internalID: -2920338766735445354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cd25efb587e64e0800000000000000
+      internalID: -1986518049119609846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 99
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7490ccc32d1674f0800000000000000
+      internalID: -831445041607043970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 99
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0930a1b247f57c0d0800000000000000
+      internalID: -3402646040911150192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915ff4c18c7709c50800000000000000
+      internalID: 6669962749487871257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 99
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cba95e06810d4a0800000000000000
+      internalID: -6570725051885503411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 100
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77f82ad053f5e260800000000000000
+      internalID: 7126369513966729084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 67
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f104221af568d3f0800000000000000
+      internalID: -875838002802982407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 67
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490f74eb620291260800000000000000
+      internalID: 7068716440907935892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 67
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bce20f2103308f60800000000000000
+      internalID: 8034477815405669554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 66
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c805cdd4aeac0cb0800000000000000
+      internalID: -4896346671740024636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 66
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e57e49f0167884c0800000000000000
+      internalID: -4285045230168803866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 66
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8828d52dd5cde4ce0800000000000000
+      internalID: -1418954537055714680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 70
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5933dfca135d0f0800000000000000
+      internalID: -1092912715515324971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 70
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db3c42cdad135830800000000000000
+      internalID: 4058620321317272532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 70
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52454a96f8db9f0b0800000000000000
+      internalID: -5694311830182931419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3250e92f040811c0800000000000000
+      internalID: -4532868561774816709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 35
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960bd4956414dca00800000000000000
+      internalID: 778350081006743657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 35
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fb885eec21d3530800000000000000
+      internalID: 3836243137413037956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 33
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776de9eed6a30b660800000000000000
+      internalID: 7399478431598958199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 33
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7705ecbab62c93730800000000000000
+      internalID: 3979425513458258039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f3e19e635956190800000000000000
+      internalID: -7969799902490378391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e95b7bc991828190800000000000000
+      internalID: -7961658693693777431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Bears Restaurant - Doctor (1)_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896171e6be7bf9350800000000000000
+      internalID: 6025737048237217432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
